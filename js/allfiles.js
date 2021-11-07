@@ -3,7 +3,7 @@
 products = [
     {
         brand_name: "Moda Rapido",
-        img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2378362/2018/6/9/270e0a7e-365b-4640-9433-b269c60bf3061528527188563-Moda-Rapido-Men-Maroon-Printed-Round-Neck-T-shirt-3811528527-1.jpg",
+        img: "https://firebasestorage.googleapis.com/v0/b/myntra-community-teamincognito.appspot.com/o/A-Line%20Dress.png?alt=media&token=ce774946-1695-4e56-9a0d-fa8250563c55",
         T_shirt_name: "Printed Round Neck T-shirt",
         price: 421,
         discount: 35,
@@ -11,7 +11,7 @@ products = [
     },
     {
         brand_name: "HRX",
-        img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2314372/2018/6/19/29e8ddfd-6f5f-43fd-8b71-dfa8ac6cef681529385860869-HRX-by-Hrithik-Roshan-Men-Charcoal-Grey-Slim-Advanced-Rapid--1.jpg",
+        img: "https://firebasestorage.googleapis.com/v0/b/myntra-community-teamincognito.appspot.com/o/Dress.png?alt=media&token=742c27d4-c4bc-4d6a-a56a-b191281fdc65",
         T_shirt_name: "Ultralyte Men Running T-shirt",
         price: 800,
         discount: 20,
@@ -21,7 +21,7 @@ products = [
 
     {
         brand_name: "Moda Rapido",
-        img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2378414/2018/2/8/11518071262125-Moda-Rapido-Men-Navy-Blue-Striped-Round-Neck-T-shirt-3641518071261992-1.jpg",
+        img: "https://firebasestorage.googleapis.com/v0/b/myntra-community-teamincognito.appspot.com/o/Plazo.png?alt=media&token=b4c60a8f-ee72-4e39-809e-15af2c6e9f54",
         T_shirt_name: "Printed Round neck T-shirt",
         price: 421,
         discount: 35,
@@ -30,7 +30,7 @@ products = [
     },
     {
         brand_name: "H&M",
-        img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/25/dcd80c17-5db3-4176-a0f3-62b74ce386df1614246409273-1.jpg",
+        img: "https://firebasestorage.googleapis.com/v0/b/myntra-community-teamincognito.appspot.com/o/Solid%20T%20Shirt.png?alt=media&token=102969f2-88af-4ade-b460-41f17bee7899",
         T_shirt_name: "Round neck T-shirt Regular fit",
         price: 350,
         discount: 50,
@@ -39,8 +39,8 @@ products = [
     },
     {
         brand_name: "Roadster",
-        img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2169170/2018/1/31/11517402469341-Roadster-Men-Black-Colourblocked-Round-Neck-T-shirt-6121517402469142-1.jpg",
-        T_shirt_name: "Brush Printed T-shirt",
+        img: "https://firebasestorage.googleapis.com/v0/b/myntra-community-teamincognito.appspot.com/o/Low%20Rise%20Jeans.jpg?alt=media&token=a824d362-d091-4aaa-9e21-35ff8c7ef6fa",
+        T_shirt_name: "Brush Printed Jeans",
         price: 419,
         discount: 50,
         oldprice: 839,
@@ -48,7 +48,7 @@ products = [
     },
     {
         brand_name: "HRX",
-        img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2314433/2018/4/11/11523427507742-HRX-by-Hrithik-Roshan-Men-Tshirts-2051523427507608-4.jpg",
+        img: "https://firebasestorage.googleapis.com/v0/b/myntra-community-teamincognito.appspot.com/o/Shirt.png?alt=media&token=75fa9eab-db0b-4635-a78b-d1fde9c23256",
         T_shirt_name: "Slim rapid dry Raglan T-shirt",
         price: 449,
         discount: 10,
@@ -75,7 +75,7 @@ products = [
     },
     {
         brand_name: "Roadster",
-        img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8807157/2019/2/28/c421d8d6-fcf6-44b0-bf34-d3d7690505051551343695119-Roadster-Men-Black-Colourblocked-Round-Neck-T-shirt-91915513-1.jpg",
+        img: "https://firebasestorage.googleapis.com/v0/b/myntra-community-teamincognito.appspot.com/o/Shirt.png?alt=media&token=75fa9eab-db0b-4635-a78b-d1fde9c23256",
         T_shirt_name: "Striped Round neck T-shirt",
         price: 449,
         discount: 10,
