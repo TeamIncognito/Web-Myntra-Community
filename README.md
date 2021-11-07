@@ -1,4 +1,4 @@
-# Web-Myntra-Community..
+
 # Web-Myntra-Community
 
 ## Functionality of MuntraCOmmunity
@@ -20,5 +20,12 @@
 - The :focus-visible polyfill removes the focus ring for some input types
 ### Analysis
 - Web Crapping
-- 
+- Made using TABLEAU and PYTHON.
+- All analysis was done on real data by scraping data.
+### Add to Bag
+- Firebase(cloud storage)
+### WhatsApp Button
+- js Library
+- twilio API(.py) file
 
+# `Website Link:`[Link](https://teaminkognito.netlify.app/)
