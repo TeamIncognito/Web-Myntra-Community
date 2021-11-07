@@ -9,10 +9,14 @@
 - WhatsApp send Button
 ## How the above mentioned functionality work
 ###  Bot
-````<script>(function(w, d) { w.CollectId = "6188283911c7462f21debbaa"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>````
+>[Link of the Bot](https://chatbot.page/6188283911c7462f21debbaa)
+- ````<script>(function(w, d) { w.CollectId = "6188283911c7462f21debbaa"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>````
+
 - ![2021-11-08 (12)](https://user-images.githubusercontent.com/85924533/140663868-fc307bef-bc73-44e4-94b2-f7bff0659b46.png)
 
+
 ### 360 View
+> [Link of website for 360 View](https://eloquent-snyder-f35f40.netlify.app/)
 ### Script Libraries
 - Web Components polyfill to support Edge and Firefox
 - Intersection Observer polyfill for better performance in Safari and IE11
@@ -20,7 +24,9 @@
 - Fullscreen polyfill is needed to fully support AR features
 - Include prismatic.js for Magic Leap support
 - The :focus-visible polyfill removes the focus ring for some input types
+
 ### Analysis
+>[Link of Amazon Analysis](https://teaminkognito.netlify.app/a.html)
 - Web Crapping
 - Made using TABLEAU and PYTHON.
 - All analysis was done on real data by scraping data.
